@@ -1,0 +1,74 @@
+<XMLWrapper>
+   <list class="java.util.ArrayList">
+      <object class="ru.sfedu.coursezz.models.Article">
+         <id>7055125</id>
+         <bookAuthorName>Mark Twain</bookAuthorName>
+         <nameOfBook>The Adventures of Tom Sawyer</nameOfBook>
+         <title>title1</title>
+         <content>content1</content>
+      </object>
+      <object class="ru.sfedu.coursezz.models.Article">
+         <id>2167961</id>
+         <bookAuthorName>Ernest Hemingway</bookAuthorName>
+         <nameOfBook>The Old Man and the Sea</nameOfBook>
+         <title>title2</title>
+         <content>content2</content>
+      </object>
+      <object class="ru.sfedu.coursezz.models.Article">
+         <id>6208694</id>
+         <bookAuthorName>Edgar Allan Poe</bookAuthorName>
+         <nameOfBook>Tales of Edgar Allan Poe</nameOfBook>
+         <title>title3</title>
+         <content>content3</content>
+      </object>
+      <object class="ru.sfedu.coursezz.models.Article">
+         <id>794786</id>
+         <bookAuthorName>Harper Lee</bookAuthorName>
+         <nameOfBook>To Kill a Mockingbird</nameOfBook>
+         <title>title4</title>
+         <content>content4</content>
+      </object>
+      <object class="ru.sfedu.coursezz.models.Article">
+         <id>9871096</id>
+         <bookAuthorName>Jack London</bookAuthorName>
+         <nameOfBook>Hearts of Three</nameOfBook>
+         <title>title5</title>
+         <content>content5</content>
+      </object>
+      <object class="ru.sfedu.coursezz.models.Article">
+         <id>7318170</id>
+         <bookAuthorName>Stephen King</bookAuthorName>
+         <nameOfBook>The Dark Tower</nameOfBook>
+         <title>title6</title>
+         <content>content6</content>
+      </object>
+      <object class="ru.sfedu.coursezz.models.Article">
+         <id>933018</id>
+         <bookAuthorName>Charles Bukowski</bookAuthorName>
+         <nameOfBook>Factotum</nameOfBook>
+         <title>title7</title>
+         <content>content7</content>
+      </object>
+      <object class="ru.sfedu.coursezz.models.Article">
+         <id>1794785</id>
+         <bookAuthorName>O. Henry</bookAuthorName>
+         <nameOfBook>The Gift of the Magi</nameOfBook>
+         <title>title8</title>
+         <content>content8</content>
+      </object>
+      <object class="ru.sfedu.coursezz.models.Article">
+         <id>3266511</id>
+         <bookAuthorName>William Makepeace Thackeray</bookAuthorName>
+         <nameOfBook>Vanity Fair</nameOfBook>
+         <title>title9</title>
+         <content>content9</content>
+      </object>
+      <object class="ru.sfedu.coursezz.models.Article">
+         <id>2451214</id>
+         <bookAuthorName>Rudyard Kipling</bookAuthorName>
+         <nameOfBook>The Jungle Book</nameOfBook>
+         <title>title10</title>
+         <content>content10</content>
+      </object>
+   </list>
+</XMLWrapper>

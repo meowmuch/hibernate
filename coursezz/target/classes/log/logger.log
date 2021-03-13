@@ -1,0 +1,309 @@
+2021-03-09 08:27:17 DEBUG HibernateMetadataProvider:60 - Get schema name: [pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, public, public]
+2021-03-09 08:28:02 DEBUG HibernateMetadataProvider:44 - Get table name: {}[postgres, hibernate, template1, template0, coursezz]
+2021-03-09 08:45:40 DEBUG HibernateEntityProvider:27 - In createBean method
+2021-03-09 08:45:40 DEBUG HibernateEntityProvider:34 - Initializing entity:TestEntity{id=null, name='name', description='description', dateCreated=Tue Mar 09 08:45:40 MSK 2021, newEntity=NewEntity{name='New N', description='New D', collection=null}, checking=true}
+2021-03-09 08:45:48 DEBUG HibernateEntityProvider:115 - Saving bean with the id: 1
+2021-03-09 08:45:48 DEBUG HibernateEntityProvider:36 - Saving object with id: 1
+2021-03-09 08:45:48 DEBUG HibernateEntityProvider:99 - Returned entity: TestEntity{id=1, name='name', description='description', dateCreated=2021-03-09 08:45:40.0, newEntity=NewEntity{name='New N', description='New D', collection=[]}, checking=true}
+2021-03-09 08:55:15 DEBUG HibernateMetadataProvider:76 - Get details: [7909 kB, 8173 kB, 7753 kB, 7753 kB, 8197 kB]
+2021-03-09 08:55:15 DEBUG HibernateMetadataProvider:60 - Get schema name: [pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, public, public, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, pg_catalog, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema, information_schema]
+2021-03-09 08:55:15 INFO  HibernateMetadataProvider:29 - Get schema size: 4
+2021-03-09 08:55:15 DEBUG HibernateMetadataProvider:44 - Get table name: {}[postgres, hibernate, template1, template0, coursezz]
+2021-03-09 08:57:53 DEBUG HibernateEntityProvider:43 - In updateBean method
+2021-03-09 08:57:58 ERROR HibernateEntityProvider:103 - java.lang.NullPointerException: Cannot invoke "ru.sfedu.coursezz.lab2.model.TestEntity.toString()" because "testBean" is null
+2021-03-09 08:57:58 ERROR HibernateEntityProvider:54 - Updating bean error
+2021-03-09 08:57:58 ERROR HibernateEntityProvider:103 - java.lang.NullPointerException: Cannot invoke "java.lang.Class.getName()" because "byClass" is null
+2021-03-09 08:57:59 DEBUG HibernateEntityProvider:115 - Saving bean with the id: 1
+2021-03-09 08:57:59 DEBUG HibernateEntityProvider:27 - In createBean method
+2021-03-09 08:57:59 DEBUG HibernateEntityProvider:34 - Initializing entity:TestEntity{id=null, name='name', description='description', dateCreated=Tue Mar 09 08:57:59 MSK 2021, newEntity=NewEntity{name='New name', description='New Description', collection=null}, checking=true}
+2021-03-09 08:57:59 DEBUG HibernateEntityProvider:115 - Saving bean with the id: 2
+2021-03-09 08:57:59 DEBUG HibernateEntityProvider:36 - Saving object with id: 2
+2021-03-09 08:57:59 DEBUG HibernateEntityProvider:43 - In updateBean method
+2021-03-09 08:57:59 DEBUG HibernateEntityProvider:99 - Returned entity: TestEntity{id=2, name='name', description='description', dateCreated=2021-03-09 08:57:59.0, newEntity=NewEntity{name='New name', description='New Description', collection=[]}, checking=true}
+2021-03-09 08:57:59 DEBUG HibernateEntityProvider:99 - Returned entity: TestEntity{id=2, name='name', description='new description', dateCreated=2021-03-09 08:57:59.0, newEntity=NewEntity{name='New name', description='New Description', collection=[]}, checking=true}
+2021-03-09 08:57:59 ERROR HibernateEntityProvider:103 - java.lang.NullPointerException: Cannot invoke "ru.sfedu.coursezz.lab2.model.TestEntity.toString()" because "testBean" is null
+2021-03-09 08:57:59 ERROR HibernateEntityProvider:85 - java.util.NoSuchElementException: No value present
+2021-03-09 08:57:59 DEBUG HibernateEntityProvider:27 - In createBean method
+2021-03-09 08:57:59 DEBUG HibernateEntityProvider:34 - Initializing entity:TestEntity{id=null, name='name', description='description', dateCreated=Tue Mar 09 08:57:59 MSK 2021, newEntity=NewEntity{name='New N', description='New D', collection=null}, checking=true}
+2021-03-09 08:57:59 DEBUG HibernateEntityProvider:115 - Saving bean with the id: 3
+2021-03-09 08:57:59 DEBUG HibernateEntityProvider:36 - Saving object with id: 3
+2021-03-09 08:57:59 DEBUG HibernateEntityProvider:99 - Returned entity: TestEntity{id=3, name='name', description='description', dateCreated=2021-03-09 08:57:59.0, newEntity=NewEntity{name='New N', description='New D', collection=[]}, checking=true}
+2021-03-09 08:57:59 DEBUG HibernateEntityProvider:115 - Saving bean with the id: 4
+2021-03-09 08:57:59 DEBUG HibernateEntityProvider:99 - Returned entity: TestEntity{id=4, name='Name', description='Test entity', dateCreated=2021-03-09 08:57:59.0, newEntity=NewEntity{name='null', description='null', collection=[]}, checking=null}
+2021-03-09 08:57:59 ERROR HibernateEntityProvider:103 - java.lang.NullPointerException: Cannot invoke "ru.sfedu.coursezz.lab2.model.TestEntity.toString()" because "testBean" is null
+2021-03-09 09:31:05 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-09 09:31:12 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-09 09:31:12 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-09 09:31:12 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-09 09:31:12 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-09 09:31:12 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-09 09:31:12 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-09 09:31:12 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-09 09:31:12 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-09 09:33:23 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-09 09:33:31 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-09 09:33:31 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-09 09:33:31 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-09 09:33:31 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-09 09:33:31 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-09 09:33:31 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-09 09:33:31 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-09 09:33:31 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-09 09:41:31 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-09 09:42:31 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-09 09:46:11 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-13 00:54:15 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-13 00:54:30 DEBUG HibernateProvider:227 - Saving bean with the id: 1
+2021-03-13 00:54:30 DEBUG HibernateProvider:37 - Saving book with id: 1
+2021-03-13 00:54:50 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 00:54:59 DEBUG HibernateProvider:227 - Saving bean with the id: 1
+2021-03-13 00:54:59 DEBUG HibernateProvider:67 - Saving article with id: 1
+2021-03-13 00:54:59 DEBUG HibernateProvider:172 - On deleteArticle method
+2021-03-13 00:54:59 DEBUG HibernateProvider:211 - Returned entity: Article{title=title, content='content'}
+2021-03-13 00:54:59 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-13 00:54:59 DEBUG HibernateProvider:227 - Saving bean with the id: 2
+2021-03-13 00:54:59 DEBUG HibernateProvider:37 - Saving book with id: 2
+2021-03-13 00:54:59 DEBUG HibernateProvider:96 - In updateBook method
+2021-03-13 00:54:59 DEBUG HibernateProvider:211 - Returned entity: Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-13 00:54:59 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 00:54:59 DEBUG HibernateProvider:227 - Saving bean with the id: 3
+2021-03-13 00:54:59 DEBUG HibernateProvider:53 - Saving film with id: 3
+2021-03-13 00:54:59 DEBUG HibernateProvider:75 - In updateFilm method
+2021-03-13 00:54:59 DEBUG HibernateProvider:211 - Returned entity: Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 00:54:59 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-13 00:54:59 DEBUG HibernateProvider:227 - Saving bean with the id: 4
+2021-03-13 00:54:59 DEBUG HibernateProvider:37 - Saving book with id: 4
+2021-03-13 00:54:59 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 00:54:59 DEBUG HibernateProvider:227 - Saving bean with the id: 5
+2021-03-13 00:54:59 DEBUG HibernateProvider:53 - Saving film with id: 5
+2021-03-13 00:54:59 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 00:54:59 DEBUG HibernateProvider:227 - Saving bean with the id: 6
+2021-03-13 00:54:59 DEBUG HibernateProvider:67 - Saving article with id: 6
+2021-03-13 00:54:59 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-13 00:54:59 DEBUG HibernateProvider:227 - Saving bean with the id: 7
+2021-03-13 00:54:59 DEBUG HibernateProvider:37 - Saving book with id: 7
+2021-03-13 00:54:59 DEBUG HibernateProvider:134 - On deleteBook method
+2021-03-13 00:54:59 DEBUG HibernateProvider:211 - Returned entity: Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-13 00:54:59 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 00:54:59 DEBUG HibernateProvider:227 - Saving bean with the id: 8
+2021-03-13 00:54:59 DEBUG HibernateProvider:53 - Saving film with id: 8
+2021-03-13 00:54:59 DEBUG HibernateProvider:153 - On deleteFilm method
+2021-03-13 00:54:59 DEBUG HibernateProvider:211 - Returned entity: Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 00:54:59 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 00:54:59 DEBUG HibernateProvider:227 - Saving bean with the id: 9
+2021-03-13 00:54:59 DEBUG HibernateProvider:67 - Saving article with id: 9
+2021-03-13 00:54:59 DEBUG HibernateProvider:117 - In updateArticle method
+2021-03-13 00:54:59 DEBUG HibernateProvider:211 - Returned entity: Article{title=title, content='content'}
+2021-03-13 01:00:41 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:00:42 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-13 01:00:42 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:00:42 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-13 01:00:42 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:00:42 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:00:42 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-13 01:00:42 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:00:42 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:26:22 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:26:32 DEBUG HibernateProvider:227 - Saving bean with the id: 1
+2021-03-13 01:26:32 DEBUG HibernateProvider:67 - Saving article with id: 1
+2021-03-13 01:26:32 DEBUG HibernateProvider:172 - On deleteArticle method
+2021-03-13 01:26:32 DEBUG HibernateProvider:211 - Returned entity: Article{title=title, content='content'}
+2021-03-13 01:26:32 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-13 01:26:32 DEBUG HibernateProvider:227 - Saving bean with the id: 2
+2021-03-13 01:26:32 DEBUG HibernateProvider:37 - Saving book with id: 2
+2021-03-13 01:26:32 DEBUG HibernateProvider:96 - In updateBook method
+2021-03-13 01:26:32 DEBUG HibernateProvider:211 - Returned entity: Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-13 01:26:32 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:26:32 DEBUG HibernateProvider:227 - Saving bean with the id: 3
+2021-03-13 01:26:32 DEBUG HibernateProvider:53 - Saving film with id: 3
+2021-03-13 01:26:32 DEBUG HibernateProvider:75 - In updateFilm method
+2021-03-13 01:26:32 DEBUG HibernateProvider:211 - Returned entity: Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:26:32 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-13 01:26:32 DEBUG HibernateProvider:227 - Saving bean with the id: 4
+2021-03-13 01:26:32 DEBUG HibernateProvider:37 - Saving book with id: 4
+2021-03-13 01:26:32 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:26:32 DEBUG HibernateProvider:227 - Saving bean with the id: 5
+2021-03-13 01:26:32 DEBUG HibernateProvider:53 - Saving film with id: 5
+2021-03-13 01:26:32 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:26:32 DEBUG HibernateProvider:227 - Saving bean with the id: 6
+2021-03-13 01:26:32 DEBUG HibernateProvider:67 - Saving article with id: 6
+2021-03-13 01:26:32 DEBUG HibernateProvider:35 - Initializing bean:Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-13 01:26:32 DEBUG HibernateProvider:227 - Saving bean with the id: 7
+2021-03-13 01:26:32 DEBUG HibernateProvider:37 - Saving book with id: 7
+2021-03-13 01:26:32 DEBUG HibernateProvider:134 - On deleteBook method
+2021-03-13 01:26:32 DEBUG HibernateProvider:211 - Returned entity: Book{link='link.com', review='review1', genre='genre1', timeReading=5}
+2021-03-13 01:26:32 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:26:32 DEBUG HibernateProvider:227 - Saving bean with the id: 8
+2021-03-13 01:26:32 DEBUG HibernateProvider:53 - Saving film with id: 8
+2021-03-13 01:26:32 DEBUG HibernateProvider:153 - On deleteFilm method
+2021-03-13 01:26:32 DEBUG HibernateProvider:211 - Returned entity: Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:26:32 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:26:32 DEBUG HibernateProvider:227 - Saving bean with the id: 9
+2021-03-13 01:26:32 DEBUG HibernateProvider:67 - Saving article with id: 9
+2021-03-13 01:26:32 DEBUG HibernateProvider:117 - In updateArticle method
+2021-03-13 01:26:32 DEBUG HibernateProvider:211 - Returned entity: Article{title=title, content='content'}
+2021-03-13 01:28:23 DEBUG IHibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:28:33 DEBUG IHibernateProvider:35 - Initializing bean:Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:28:33 DEBUG IHibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:28:33 DEBUG IHibernateProvider:35 - Initializing bean:Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:28:33 DEBUG IHibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:28:33 DEBUG IHibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:28:33 DEBUG IHibernateProvider:35 - Initializing bean:Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:28:33 DEBUG IHibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:28:33 DEBUG IHibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:31:34 DEBUG IHibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:31:44 DEBUG IHibernateProvider:227 - Saving bean with the id: 1
+2021-03-13 01:31:44 DEBUG IHibernateProvider:67 - Saving article with id: 1
+2021-03-13 01:31:44 DEBUG IHibernateProvider:172 - On deleteArticle method
+2021-03-13 01:31:44 DEBUG IHibernateProvider:211 - Returned entity: Article{title=title, content='content'}
+2021-03-13 01:31:44 DEBUG IHibernateProvider:35 - Initializing bean:Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:31:44 DEBUG IHibernateProvider:227 - Saving bean with the id: 2
+2021-03-13 01:31:44 DEBUG IHibernateProvider:37 - Saving book with id: 2
+2021-03-13 01:31:44 DEBUG IHibernateProvider:96 - In updateBook method
+2021-03-13 01:31:44 DEBUG IHibernateProvider:211 - Returned entity: Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:31:44 DEBUG IHibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:31:44 DEBUG IHibernateProvider:227 - Saving bean with the id: 3
+2021-03-13 01:31:44 DEBUG IHibernateProvider:53 - Saving film with id: 3
+2021-03-13 01:31:44 DEBUG IHibernateProvider:75 - In updateFilm method
+2021-03-13 01:31:44 DEBUG IHibernateProvider:211 - Returned entity: Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:31:44 DEBUG IHibernateProvider:35 - Initializing bean:Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:31:44 DEBUG IHibernateProvider:227 - Saving bean with the id: 4
+2021-03-13 01:31:44 DEBUG IHibernateProvider:37 - Saving book with id: 4
+2021-03-13 01:31:44 DEBUG IHibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:31:44 DEBUG IHibernateProvider:227 - Saving bean with the id: 5
+2021-03-13 01:31:44 DEBUG IHibernateProvider:53 - Saving film with id: 5
+2021-03-13 01:31:44 DEBUG IHibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:31:44 DEBUG IHibernateProvider:227 - Saving bean with the id: 6
+2021-03-13 01:31:44 DEBUG IHibernateProvider:67 - Saving article with id: 6
+2021-03-13 01:31:44 DEBUG IHibernateProvider:35 - Initializing bean:Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:31:44 DEBUG IHibernateProvider:227 - Saving bean with the id: 7
+2021-03-13 01:31:44 DEBUG IHibernateProvider:37 - Saving book with id: 7
+2021-03-13 01:31:44 DEBUG IHibernateProvider:134 - On deleteBook method
+2021-03-13 01:31:44 DEBUG IHibernateProvider:211 - Returned entity: Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:31:44 DEBUG IHibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:31:44 DEBUG IHibernateProvider:227 - Saving bean with the id: 8
+2021-03-13 01:31:44 DEBUG IHibernateProvider:53 - Saving film with id: 8
+2021-03-13 01:31:44 DEBUG IHibernateProvider:153 - On deleteFilm method
+2021-03-13 01:31:44 DEBUG IHibernateProvider:211 - Returned entity: Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:31:44 DEBUG IHibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:31:44 DEBUG IHibernateProvider:227 - Saving bean with the id: 9
+2021-03-13 01:31:44 DEBUG IHibernateProvider:67 - Saving article with id: 9
+2021-03-13 01:31:44 DEBUG IHibernateProvider:117 - In updateArticle method
+2021-03-13 01:31:44 DEBUG IHibernateProvider:211 - Returned entity: Article{title=title, content='content'}
+2021-03-13 01:42:57 DEBUG IHibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:43:07 DEBUG IHibernateProvider:227 - Saving bean with the id: 1
+2021-03-13 01:43:07 DEBUG IHibernateProvider:67 - Saving article with id: 1
+2021-03-13 01:43:08 DEBUG IHibernateProvider:172 - On deleteArticle method
+2021-03-13 01:43:08 DEBUG IHibernateProvider:211 - Returned entity: Article{title=title, content='content'}
+2021-03-13 01:43:08 DEBUG IHibernateProvider:35 - Initializing bean:Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:43:08 DEBUG IHibernateProvider:227 - Saving bean with the id: 2
+2021-03-13 01:43:08 DEBUG IHibernateProvider:37 - Saving book with id: 2
+2021-03-13 01:43:08 DEBUG IHibernateProvider:96 - In updateBook method
+2021-03-13 01:43:08 DEBUG IHibernateProvider:211 - Returned entity: Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:43:08 DEBUG IHibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:43:08 DEBUG IHibernateProvider:227 - Saving bean with the id: 3
+2021-03-13 01:43:08 DEBUG IHibernateProvider:53 - Saving film with id: 3
+2021-03-13 01:43:08 DEBUG IHibernateProvider:75 - In updateFilm method
+2021-03-13 01:43:08 DEBUG IHibernateProvider:211 - Returned entity: Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:43:08 DEBUG IHibernateProvider:35 - Initializing bean:Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:43:08 DEBUG IHibernateProvider:227 - Saving bean with the id: 4
+2021-03-13 01:43:08 DEBUG IHibernateProvider:37 - Saving book with id: 4
+2021-03-13 01:43:08 DEBUG IHibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:43:08 DEBUG IHibernateProvider:227 - Saving bean with the id: 5
+2021-03-13 01:43:08 DEBUG IHibernateProvider:53 - Saving film with id: 5
+2021-03-13 01:43:08 DEBUG IHibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:43:08 DEBUG IHibernateProvider:227 - Saving bean with the id: 6
+2021-03-13 01:43:08 DEBUG IHibernateProvider:67 - Saving article with id: 6
+2021-03-13 01:43:08 DEBUG IHibernateProvider:35 - Initializing bean:Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:43:08 DEBUG IHibernateProvider:227 - Saving bean with the id: 7
+2021-03-13 01:43:08 DEBUG IHibernateProvider:37 - Saving book with id: 7
+2021-03-13 01:43:08 DEBUG IHibernateProvider:134 - On deleteBook method
+2021-03-13 01:43:08 DEBUG IHibernateProvider:211 - Returned entity: Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:43:08 DEBUG IHibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:43:08 DEBUG IHibernateProvider:227 - Saving bean with the id: 8
+2021-03-13 01:43:08 DEBUG IHibernateProvider:53 - Saving film with id: 8
+2021-03-13 01:43:08 DEBUG IHibernateProvider:153 - On deleteFilm method
+2021-03-13 01:43:08 DEBUG IHibernateProvider:211 - Returned entity: Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:43:08 DEBUG IHibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:43:08 DEBUG IHibernateProvider:227 - Saving bean with the id: 9
+2021-03-13 01:43:08 DEBUG IHibernateProvider:67 - Saving article with id: 9
+2021-03-13 01:43:08 DEBUG IHibernateProvider:117 - In updateArticle method
+2021-03-13 01:43:08 DEBUG IHibernateProvider:211 - Returned entity: Article{title=title, content='content'}
+2021-03-13 01:55:59 DEBUG HibernateProvider:64 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:56:09 DEBUG HibernateProvider:229 - Saving bean with the id: 1
+2021-03-13 01:56:09 DEBUG HibernateProvider:66 - Saving article with id: 1
+2021-03-13 01:56:09 DEBUG HibernateProvider:174 - On deleteArticle method
+2021-03-13 01:56:09 DEBUG HibernateProvider:213 - Returned entity: Article{title=title, content='content'}
+2021-03-13 01:56:09 DEBUG HibernateProvider:34 - Initializing bean:Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:56:09 DEBUG HibernateProvider:229 - Saving bean with the id: 2
+2021-03-13 01:56:09 DEBUG HibernateProvider:36 - Saving book with id: 2
+2021-03-13 01:56:09 DEBUG HibernateProvider:96 - In updateBook method
+2021-03-13 01:56:09 DEBUG HibernateProvider:213 - Returned entity: Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:56:09 DEBUG HibernateProvider:50 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:56:09 DEBUG HibernateProvider:229 - Saving bean with the id: 3
+2021-03-13 01:56:09 DEBUG HibernateProvider:52 - Saving film with id: 3
+2021-03-13 01:56:09 DEBUG HibernateProvider:74 - In updateFilm method
+2021-03-13 01:56:09 DEBUG HibernateProvider:213 - Returned entity: Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:56:09 DEBUG HibernateProvider:34 - Initializing bean:Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:56:09 DEBUG HibernateProvider:229 - Saving bean with the id: 4
+2021-03-13 01:56:09 DEBUG HibernateProvider:36 - Saving book with id: 4
+2021-03-13 01:56:09 DEBUG HibernateProvider:50 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:56:09 DEBUG HibernateProvider:229 - Saving bean with the id: 5
+2021-03-13 01:56:09 DEBUG HibernateProvider:52 - Saving film with id: 5
+2021-03-13 01:56:09 DEBUG HibernateProvider:64 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:56:09 DEBUG HibernateProvider:229 - Saving bean with the id: 6
+2021-03-13 01:56:09 DEBUG HibernateProvider:66 - Saving article with id: 6
+2021-03-13 01:56:09 DEBUG HibernateProvider:34 - Initializing bean:Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:56:09 DEBUG HibernateProvider:229 - Saving bean with the id: 7
+2021-03-13 01:56:09 DEBUG HibernateProvider:36 - Saving book with id: 7
+2021-03-13 01:56:09 DEBUG HibernateProvider:136 - On deleteBook method
+2021-03-13 01:56:09 DEBUG HibernateProvider:213 - Returned entity: Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 01:56:09 DEBUG HibernateProvider:50 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:56:09 DEBUG HibernateProvider:229 - Saving bean with the id: 8
+2021-03-13 01:56:09 DEBUG HibernateProvider:52 - Saving film with id: 8
+2021-03-13 01:56:09 DEBUG HibernateProvider:155 - On deleteFilm method
+2021-03-13 01:56:09 DEBUG HibernateProvider:213 - Returned entity: Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 01:56:09 DEBUG HibernateProvider:64 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 01:56:09 DEBUG HibernateProvider:229 - Saving bean with the id: 9
+2021-03-13 01:56:09 DEBUG HibernateProvider:66 - Saving article with id: 9
+2021-03-13 01:56:09 DEBUG HibernateProvider:118 - In updateArticle method
+2021-03-13 01:56:09 DEBUG HibernateProvider:213 - Returned entity: Article{title=title, content='content'}
+2021-03-13 02:16:10 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 02:16:22 DEBUG HibernateProvider:230 - Saving bean with the id: 1
+2021-03-13 02:16:22 DEBUG HibernateProvider:67 - Saving article with id: 1
+2021-03-13 02:16:22 DEBUG HibernateProvider:175 - On deleteArticle method
+2021-03-13 02:16:22 DEBUG HibernateProvider:214 - Returned entity: Article{title=title, content='content'}
+2021-03-13 02:16:22 DEBUG HibernateProvider:35 - Initializing bean:Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 02:16:22 DEBUG HibernateProvider:230 - Saving bean with the id: 2
+2021-03-13 02:16:22 DEBUG HibernateProvider:37 - Saving book with id: 2
+2021-03-13 02:16:22 DEBUG HibernateProvider:97 - In updateBook method
+2021-03-13 02:16:22 DEBUG HibernateProvider:214 - Returned entity: Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 02:16:22 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 02:16:22 DEBUG HibernateProvider:230 - Saving bean with the id: 3
+2021-03-13 02:16:22 DEBUG HibernateProvider:53 - Saving film with id: 3
+2021-03-13 02:16:22 DEBUG HibernateProvider:75 - In updateFilm method
+2021-03-13 02:16:22 DEBUG HibernateProvider:214 - Returned entity: Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 02:16:22 DEBUG HibernateProvider:35 - Initializing bean:Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 02:16:23 DEBUG HibernateProvider:230 - Saving bean with the id: 4
+2021-03-13 02:16:23 DEBUG HibernateProvider:37 - Saving book with id: 4
+2021-03-13 02:16:23 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 02:16:23 DEBUG HibernateProvider:230 - Saving bean with the id: 5
+2021-03-13 02:16:23 DEBUG HibernateProvider:53 - Saving film with id: 5
+2021-03-13 02:16:23 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 02:16:23 DEBUG HibernateProvider:230 - Saving bean with the id: 6
+2021-03-13 02:16:23 DEBUG HibernateProvider:67 - Saving article with id: 6
+2021-03-13 02:16:23 DEBUG HibernateProvider:35 - Initializing bean:Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 02:16:23 DEBUG HibernateProvider:230 - Saving bean with the id: 7
+2021-03-13 02:16:23 DEBUG HibernateProvider:37 - Saving book with id: 7
+2021-03-13 02:16:23 DEBUG HibernateProvider:137 - On deleteBook method
+2021-03-13 02:16:23 DEBUG HibernateProvider:214 - Returned entity: Book{link=link.com, review='review1, timeReading='5, genre='genre1'}
+2021-03-13 02:16:23 DEBUG HibernateProvider:51 - Initializing bean:Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 02:16:23 DEBUG HibernateProvider:230 - Saving bean with the id: 8
+2021-03-13 02:16:23 DEBUG HibernateProvider:53 - Saving film with id: 8
+2021-03-13 02:16:23 DEBUG HibernateProvider:156 - On deleteFilm method
+2021-03-13 02:16:23 DEBUG HibernateProvider:214 - Returned entity: Film{, country='country, year='2000, producer='producer1, format='format1'}
+2021-03-13 02:16:23 DEBUG HibernateProvider:65 - Initializing bean:Article{title=title, content='content'}
+2021-03-13 02:16:23 DEBUG HibernateProvider:230 - Saving bean with the id: 9
+2021-03-13 02:16:23 DEBUG HibernateProvider:67 - Saving article with id: 9
+2021-03-13 02:16:23 DEBUG HibernateProvider:119 - In updateArticle method
+2021-03-13 02:16:23 DEBUG HibernateProvider:214 - Returned entity: Article{title=title, content='content'}

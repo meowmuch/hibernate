@@ -1,0 +1,11 @@
+BOOKAUTHORNAME,GENRE,ID,LINK,NAMEOFBOOK,REVIEW,TIMEREADING
+Mark Twain,genre1,6166738,first.com,The Adventures of Tom Sawyer,review1,6968144
+Ernest Hemingway,genre2,2299761,second.com,The Old Man and the Sea,review2,982973
+Edgar Allan Poe,genre3,6548795,third.com,Tales of Edgar Allan Poe,review3,7054014
+Harper Lee,genre4,8047193,fourth.com,To Kill a Mockingbird,review4,1147090
+Jack London,genre5,5532604,fifth.com,Hearts of Three,review5,4839729
+Stephen King,genre6,9718103,sixth.com,The Dark Tower,review6,2307945
+Charles Bukowski,genre7,4055672,seventh.com,Factotum,review7,7978031
+O. Henry,genre8,5884814,eighth.com,The Gift of the Magi,review8,7921901
+William Makepeace Thackeray,genre9,968025,ninth.com,Vanity Fair,review9,2723560
+Rudyard Kipling,genre10,1310353,tenth.com,The Jungle Book,review10,5364215
